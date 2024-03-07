@@ -1,4 +1,4 @@
-# How to use
+# How to use (script has not been tested yet, use at you own risk!)
 This is a script to auto update your Quilibrium node IF you are running it as a service.
 The service name must be "ceremonyclient".
 To run the node as a service you can follow [this guide](https://github.com/demipoet/demipoet.github.io), or [this other guide](https://github.com/hedging8563/quilnode/blob/main/README.md) (with auto-installer script).
